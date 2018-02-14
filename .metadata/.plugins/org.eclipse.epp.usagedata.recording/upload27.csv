@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1284963664634
+java.runtime.version,sysinfo,,,"1.6.0_18-b07",1284963664634
+java.specification.name,sysinfo,,,"Java Platform API Specification",1284963664634
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1284963664634
+java.specification.version,sysinfo,,,"1.6",1284963664634
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1284963664634
+java.version,sysinfo,,,"1.6.0_18",1284963664634
+java.vm.info,sysinfo,,,"mixed mode, sharing",1284963664634
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1284963664634
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1284963664634
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1284963664634
+java.vm.specification.version,sysinfo,,,"1.0",1284963664634
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1284963664634
+java.vm.version,sysinfo,,,"16.0-b13",1284963664634
+started,bundle,org.eclipse.epp.usagedata.ui,1.1.0.R200906100410,"org.eclipse.epp.usagedata.ui",1284963665695
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1284963666677
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1284963676630
+activated,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.PackageExplorer",1284963689641
+opened,editor,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1284963707206
+activated,editor,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1284963707425
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.select.lineEnd",1284963717845
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.paste",1284963719561
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.select.lineEnd",1284963740403
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.paste",1284963741526
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1284963755410

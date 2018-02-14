@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.workbench.texteditor",1285350072757
+started,bundle,org.eclipse.update.configurator,3.3.0.v20090312,"org.eclipse.update.configurator",1285350072770
+started,bundle,org.eclipse.wst.common.frameworks,1.1.300.v200904160730,"org.eclipse.wst.common.frameworks",1285350072772
+started,bundle,org.eclipse.wst.common.project.facet.core,1.4.1.v200908111817,"org.eclipse.wst.common.project.facet.core",1285350072772
+started,bundle,org.eclipse.wst.web,1.1.301.v200909021400,"org.eclipse.wst.web",1285350072773
+os,sysinfo,,,"win32",1285350072786
+arch,sysinfo,,,"x86",1285350072786
+ws,sysinfo,,,"win32",1285350072786
+locale,sysinfo,,,"en_GB",1285350072786
+processors,sysinfo,,,"2",1285350072786
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1285350072786
+java.runtime.version,sysinfo,,,"1.6.0_18-b07",1285350072786
+java.specification.name,sysinfo,,,"Java Platform API Specification",1285350072786
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1285350072786
+java.specification.version,sysinfo,,,"1.6",1285350072786
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1285350072786
+java.version,sysinfo,,,"1.6.0_18",1285350072786
+java.vm.info,sysinfo,,,"mixed mode, sharing",1285350072786
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1285350072786
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1285350072786
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1285350072786
+java.vm.specification.version,sysinfo,,,"1.0",1285350072786
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1285350072786
+java.vm.version,sysinfo,,,"16.0-b13",1285350072786
+started,bundle,org.eclipse.mylyn.commons.ui,3.2.2.v20090912-0400-e3x,"org.eclipse.mylyn.commons.ui",1285350072923
